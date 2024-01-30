@@ -1,0 +1,4 @@
+{
+  // removed the @babel/preset-env and the code still works.
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
